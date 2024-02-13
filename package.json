@@ -1,15 +1,9 @@
 {
 	"name": "react-tripadvisor-review-card",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"private": false,
-	"main": "lib/index.cjs",
+	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/index.js",
-      "require": "./dist/index.umd.cjs"
-    }
-  },
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
 		"@testing-library/react": "^13.4.0",
