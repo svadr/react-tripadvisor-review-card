@@ -23,13 +23,13 @@ import TripAdvisorReviewCard from 'react-tripadvisor-review-card';
 
 ```js
 const props = {
-   avatarURL: "https://example.com/img.png",
-   rating: 5,
-	name: "Salvador B",
-	date: "January 24, 2024",
-	title: "Great experience!",
-	description: "Some wonderful experience descriptiona ds asdas das d asd asdasdasdasd asdasdasdas asdasdasdasd dasdasdasdas asdasdas asdasdasdasdsadasdasdasdasd",
-	reviewURL: "https://example.com"
+avatarURL: "https://example.com/img.png",
+rating: 5,
+name: "Salvador B",
+date: "January 24, 2024",
+title: "Great experience!",
+description: "Some wonderful experience descriptiona ds asdas das d asd asdasdasdasd asdasdasdas asdasdasdasd dasdasdasdas asdasdas asdasdasdasdsadasdasdasdasd",
+reviewURL: "https://example.com"
 }
 
 <TripAdvisorReviewCard {...props} />
