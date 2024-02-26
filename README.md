@@ -37,7 +37,7 @@ const props = {
 
 ## UI Design
 
-<img src="./src/assets/demo-min.png" width="100">
+<img src="./src/assets/demo-min.png" width="400">
 
 ## Storybook
 
