@@ -31,6 +31,7 @@ const props = {
 	description: "Some wonderful experience descriptiona ds asdas das d asd asdasdasdasd asdasdasdas asdasdasdasd dasdasdasdas asdasdas asdasdasdasdsadasdasdasdasd",
 	reviewURL: "https://example.com"
 }
+
 <TripAdvisorReviewCard {...props} />
 ```
 
