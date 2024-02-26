@@ -35,6 +35,10 @@ const props = {
 <TripAdvisorReviewCard {...props} />
 ```
 
+## UI Design
+
+<img src="./src/assets/demo-min.png">
+
 ## Storybook
 
 ```bash
