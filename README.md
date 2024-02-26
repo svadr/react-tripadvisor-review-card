@@ -2,7 +2,7 @@
 
 ## Description
 
-`react-tripadvisor-review-card` is a React component designed to display beautiful cards for showcasing reviews from TripAdvisor.
+`react-tripadvisor-review-card` is a React component designed to display beautiful cards for showcasing reviews from TripAdvisor. This component is built using React, TypeScript, and styled with Tailwind CSS. Additionally, it comes with Storybook for easy development and testing.
 
 ## Installation
 
@@ -30,6 +30,11 @@ const props = {
 	reviewURL: "https://example.com"
 }
 <TripAdvisorReviewCard {...props} />
+```
+
+## Storybook
+```bash
+npm run storybook
 ```
 
 ## Contributing
