@@ -14,11 +14,13 @@ To install and use this component in your project, follow these steps:
    npm install react-tripadvisor-review-card
 
 ## Import the component into your file:
+
 ```js
 import TripAdvisorReviewCard from 'react-tripadvisor-review-card';
 ```
 
 ## Use the component in your application
+
 ```js
 const props = {
    avatarURL: "https://example.com/img.png",
@@ -33,11 +35,13 @@ const props = {
 ```
 
 ## Storybook
+
 ```bash
 npm run storybook
 ```
 
 ## Contributing
+
 If you want to contribute to this project, follow these steps:
 
 - Fork the repository.
@@ -48,4 +52,5 @@ If you want to contribute to this project, follow these steps:
 - Create a pull request on this repository.
 
 ## LICENCE
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
