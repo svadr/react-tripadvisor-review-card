@@ -6,7 +6,7 @@
 
 ## Installation
 
-To install and use this component in your project, please follow these steps:
+To install and use this component in your project, follow these steps:
 
 1. Install the package from npm:
 
