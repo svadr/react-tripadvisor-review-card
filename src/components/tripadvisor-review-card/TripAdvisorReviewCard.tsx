@@ -35,7 +35,7 @@ const TripAdvisorReviewCard: FC<TripAdvisorReviewCardProps> = ({
 		<div className="container w-80 h-80 bg-stone-200 p-5 rounded-lg flex flex-col gap-3">
 			<div className="container flex flex-col gap-2">
 				<div className="container flex gap-4">
-					<img className="h-11 w-11 rounded-full" src={userIcon} />
+					<img className="h-11 w-11 rounded-full" src={avatarURL ? avatarURL : userIcon} />
 					<div className="container leading-tight">
 						<div className="text-base font-bold">{name}</div>
 						<div className="text-sm opacity-50">{date}</div>
