@@ -28,7 +28,7 @@ const props = {
   name: "Salvador B",
   date: "January 24, 2024",
   title: "Great experience!",
-  description: "Some wonderful experience descriptiona ds asdas das d asd asdasdasdasd asdasdasdas asdasdasdasd dasdasdasdas asdasdas asdasdasdasdsadasdasdasdasd",
+  description: "I recently dined at La Belle Cuisine and had an extraordinary experience. From the moment I walked in, the ambiance was warm and inviting, with tasteful decor and soft lighting that created a cozy atmosphere.",
   reviewURL: "https://example.com"
 }
 
