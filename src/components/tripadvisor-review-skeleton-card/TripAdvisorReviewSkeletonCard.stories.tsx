@@ -1,6 +1,6 @@
 import React from "react";
 import { Meta, Story } from "@storybook/react";
-import { TripAdvisorReviewSkeletonCard } from "../TripAdvisorReviewSkeletonCard";
+import TripAdvisorReviewSkeletonCard from "../tripadvisor-review-skeleton-card/TripAdvisorReviewSkeletonCard";
 
 export default {
 	title: "Components/TripAdvisorReviewSkeletonCard",

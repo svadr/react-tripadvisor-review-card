@@ -1,1 +1,2 @@
-export { default } from "./TripAdvisorReviewCard";
+export { TripAdvisorReviewCard } from "./TripAdvisorReviewCard";
+export type { TripAdvisorReviewCardProps } from "./TripAdvisorReviewCard";

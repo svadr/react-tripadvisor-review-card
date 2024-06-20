@@ -13,7 +13,7 @@ export interface TripAdvisorReviewCardProps {
 	reviewURL: string;
 }
 
-const TripAdvisorReviewCard: FC<TripAdvisorReviewCardProps> = ({
+export const TripAdvisorReviewCard: FC<TripAdvisorReviewCardProps> = ({
 	avatarURL,
 	rating,
 	name,
@@ -61,5 +61,3 @@ const TripAdvisorReviewCard: FC<TripAdvisorReviewCardProps> = ({
 		</div>
 	);
 };
-
-export default TripAdvisorReviewCard;
